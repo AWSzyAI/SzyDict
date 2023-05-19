@@ -12,9 +12,16 @@
   "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
   "bookmarks",
+  "markdown-importer",
+  "zk-prefixer",
+  "random-note",
   "outline",
   "word-count",
-  "file-recovery"
+  "slides",
+  "workspaces",
+  "file-recovery",
+  "publish"
 ]

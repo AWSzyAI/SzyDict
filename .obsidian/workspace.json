@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summary.md",
+                "file": "目录.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summary.md",
+                "file": "目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summary.md",
+                "file": "目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summary.md"
+                "file": "目录.md"
               }
             }
           }
@@ -164,22 +164,29 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9da71c6f8d07d553",
+  "active": "d29f33904e2ddc1e",
   "lastOpenFiles": [
+    "README.md",
+    "README-EN.md",
+    "目录.md",
+    "后记.md",
     "$/Y/友情.md",
+    "$/Z/自信.md",
     "$/Y/意义.md",
     "$/Q/亲情.md",
     "意义.md",
-    "summary.md",
-    "README.md",
     "友情.md",
     "亲情.md",
     "$/A/爱情.md",
     "$/A/爱.md",
-    "README-EN.md",
     "mkdir_A-Z.c",
     "$/创建文件夹A-Z.exe",
     "$/X",
