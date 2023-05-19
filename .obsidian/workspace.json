@@ -33,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summary.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,19 +169,26 @@
   },
   "active": "9da71c6f8d07d553",
   "lastOpenFiles": [
-    "mkdir_A-Z.c",
-    "Content/创建文件夹A-Z.exe",
-    "Content/X",
-    "Content/W",
-    "Content/V",
-    "Content/U",
-    "Content/T",
-    "Content/S",
-    "Content/R",
-    "Content/P",
-    "Content/O",
-    "README.md",
+    "$/Y/友情.md",
+    "$/Y/意义.md",
+    "$/Q/亲情.md",
+    "意义.md",
     "summary.md",
-    "Content/A/爱情.md"
+    "README.md",
+    "友情.md",
+    "亲情.md",
+    "$/A/爱情.md",
+    "$/A/爱.md",
+    "README-EN.md",
+    "mkdir_A-Z.c",
+    "$/创建文件夹A-Z.exe",
+    "$/X",
+    "$/W",
+    "$/V",
+    "$/U",
+    "$/T",
+    "$/S",
+    "$/R",
+    "$/P"
   ]
 }
